@@ -15,6 +15,7 @@ struct Fraction {
 struct Tempos {
     Fraction backja;
     int speed;
+    
 };
 struct Expression {
     Fraction bakja;
