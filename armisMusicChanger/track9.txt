@@ -1,0 +1,16 @@
+v9l16<<c-r8.d<brbr4>dr8.c-r8.d<brbr8.>db+r8.c-r8.d<brbr4>dr8.c-r8.d<br
+br4>arfrc-r8.d<brbr4>dr8.c-r8.d<brbr8.>ab+r8.c-r8.d<brbr4>dr8.c-r8.d<b
+rbr4>arfrc-r8.d<brbr4>dr8.c-r8.d<brbr8.>>ccr8.<c-r8.d<brbr4>dr8.c-r8.d
+<brbr8.>aarfrc-r8.d<brbr4>dr8.c-r8.d<brbr8.>aarfrc-r8.d<brbr4>dr8.c-r8
+.d<brbr8.>aarfrc-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr
+8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr
+8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.
+d<brbr4>dr8.c-r8.d<brbr8.>ab+r8.c-r8.d<brbr4>dr8.c-r8.d<brbr4>arfrc-r8
+.d<brbr4>dr8.c-r8.d<brbr8.>>ccr8.<c-r8.d<brbr4>dr8.c-r8.d<brbr8.>aarfr
+c-r8.d<brbr4>dr8.c-r8.d<brbr8.>aarfrc-r8.d<brbr4>dr8.c-r8.d<brbr8.>aar
+frc-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr
+8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.
+d<brbr8.b>dl1.rrrrrrr1r8.l16c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8
+.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr
+8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr
+8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>dr8.c-r8.d<brbr8.b>d
