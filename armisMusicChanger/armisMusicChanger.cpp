@@ -204,6 +204,12 @@ int main()
 
             }
         }
+        if (temposs.size() == 0) {
+            tTempo.backja.bunja = 0;
+            tTempo.backja.bunmo = 4;
+            tTempo.speed = 120;
+            temposs.push_back(tTempo);
+        }
         //정렬코드
         for (int i = temposs.size() - 1; i > 0; i--) {
             for (int j = 0; j < i; j++) {
